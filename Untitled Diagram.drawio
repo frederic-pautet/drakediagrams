@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-12T08:20:44.893Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0" etag="5d39dS1sy5mgJQkryvEB" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-12T08:24:31.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:94.0) Gecko/20100101 Firefox/94.0" etag="fBbKpmXGRijEvQCBuXeM" version="24.2.3" type="github">
   <diagram name="Page-1" id="zxnMH-ovP6JPlp-rO30M">
     <mxGraphModel dx="1434" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -102,6 +102,39 @@
         </mxCell>
         <mxCell id="C36BV3S7HllfPEe-F848-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.433;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="C36BV3S7HllfPEe-F848-1" target="C36BV3S7HllfPEe-F848-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-10" value="Button Main Menu" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="590" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-11" value="Button Classic Mode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="230" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-12" value="Button Trivia Mode" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="260" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-13" value="Button Multiplayer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="380" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-14" value="Button Highscores" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="530" y="230" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-15" value="Button Play" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-16" value="Button Play" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-17" value="Button Play" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="330" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-18" value="Event End Game" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-19" value="Event End Game" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="440" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MqsEhLfhW-rrSsjmffps-20" value="Event End Game" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="395" y="440" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
